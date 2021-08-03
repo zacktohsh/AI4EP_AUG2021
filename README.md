@@ -1,4 +1,4 @@
-# AI4EP November 2020
+# AI4EP August 2021
 
 ## Instructions
 + Download pdf (presentation deck and activity sheets)
@@ -15,7 +15,7 @@
 + Microsoft Text Analytics https://aidemos.microsoft.com/text-analytics
 + Microsoft Computer Vision https://aidemos.microsoft.com/computer-vision
 + Microsoft Video Indexer https://aidemos.microsoft.com/video-indexer
-+ How Old https://www.how-old.net/
+
 ###
 + IBM Tone Analyser http://bit.ly/2TLD0Vb
 + IBM Watson Discovery https://ibm.co/36SOnTN
